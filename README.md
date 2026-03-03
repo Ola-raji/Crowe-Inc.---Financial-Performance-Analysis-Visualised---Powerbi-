@@ -1,4 +1,4 @@
-# 📊 Crowe Inc. Financial Performance Analysis
+# 📊 Crowe Inc. Financial Performance Analysis Visualized - PowerBI
 
 ## 🔗 Live Dashboard
 **[View the Interactive Power BI Report here](https://app.powerbi.com/view?r=eyJrIjoiODZhOGUyZGQtNDhkOS00YWQzLWIxNzgtMzRhMDU0NmUwNGZkIiwidCI6ImVmNDVhMzIyLTdmMmEtNDBmYi04ZDU0LTVjNTVlY2NjNGIwMyJ9)**
