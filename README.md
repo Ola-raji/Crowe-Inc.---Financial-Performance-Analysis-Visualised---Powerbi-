@@ -6,7 +6,7 @@
 ---
 
 ## 🏢 Project Background
-**Crowe Inc.** is a fictitious Canadian SME operating within the manufacturing sector. This project involves the end-to-end processing of two years of fiscal data (2019–2020), transforming raw journal entries into a high-level executive dashboard.
+**Crowe Inc.** is a fictitious Canadian SME operating within the manufacturing sector. This project involves the end-to-end processing of two years of fiscal data (2019–2020), transforming raw journal entries into a high-level executive income statement dashboard.
 
 The company operates through four regional hubs:
 * 🧊 **North:** Specialized logistics & resource management.
