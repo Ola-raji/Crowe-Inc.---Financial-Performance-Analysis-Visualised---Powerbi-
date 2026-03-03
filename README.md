@@ -43,12 +43,13 @@ The dashboard was designed to provide both **Executive** and **Operational** vie
 
 ## 🛠 Tech Stack
 * **Excel:** Initial data audit and Trial Balance validation.
+* **Power Query (M)**: ETL
 * **Power BI:** Trial Balance creation, Data modelling, DAX engineering, and UI/UX design.
 
 ---
 
 ## 📂 Repository Contents
 * `Crowe Inc. Journal.xlsx`: The source dataset containing the Journal, Chart of Accounts and Context sheets.
-* `Screenshot of Visualized Data`:  Screeshot of Crowe Inc.'s Financial Performance snapshot
+* `Screenshot of Visualized Data`:  Screenshot of Crowe Inc.'s Financial Performance snapshot
 
 ---
