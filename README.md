@@ -20,9 +20,9 @@ The company operates through four regional hubs:
 
 ### 1. Data Structuring (The Accounting Foundation)
 The project began with a raw **General Journal** and a **Chart of Accounts (COA)**. To ensure data integrityand clarity for the visualization, I performed the following:
-* **Trial Balance Creation:** Validated that the total Debits equaled total Credits to ensure a balanced ledger.
 * **Account Mapping:** Categorized accounts into Assets, Liabilities, Equity, Revenue, and Expenses.
 * **Cleaning:** Handled contra-revenue accounts (Returns) and volume discounts to ensure "Net Sales" figures were accurate.
+* * **Trial Balance Creation:** Validated that the total Debits equalled total Credits to ensure a balanced ledger on PowerBI. 
 
 ### 2. Data Modelling (Power BI)
 I utilized a **Star Schema** to optimize the Power BI model, creating Dimension tables from the Fact table for better categorization and filtering: 
